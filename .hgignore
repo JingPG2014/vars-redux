@@ -1,0 +1,8 @@
+syntax: regexp
+.metadata/ 
+target/ 
+^test 
+^.*patch$
+
+syntax: glob
+.DS_Store
